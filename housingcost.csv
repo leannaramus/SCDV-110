@@ -1,0 +1,48 @@
+"Title:","Median Asking Housing Sales Price from the Housing Vacancies and Homeownership Rates  Database"
+"SubTitle:","Region"
+"Time:","1988 - 2021"
+"Unit of Measure:","Current Dollars","Current Dollars","Current Dollars","Current Dollars"
+"Citation:","United States Census Bureau, United States Census Bureau (2022-09-30). Housing Vacancies and Homeownership Rates : Median Asking Housing Sales Price | Midwest, Northeast, South, West, 1988 - 2021. Data Planet? Statistical Datasets: A SAGE Publishing Resource. (Dataset). Dataset-ID:  001-048-019 doi:https://doi.org/10.6068/DP1845CB1197E24"
+"ColumnCount:",5
+"RowCount:",34
+
+"Time","Midwest (Current Dollars)","Northeast (Current Dollars)","South (Current Dollars)","West (Current Dollars)"
+"1988",38100,124500,56400,81300
+"1989",33100,102400,52300,64600
+"1990",39200,109900,50400,120500
+"1991",48300,101600,49700,120900
+"1992",41500,96800,57700,134900
+"1993",46900,99900,59800,124900
+"1994",51000,107100,63200,105100
+"1995",61400,102600,65400,128300
+"1996",66800,95700,70300,121900
+"1997",79800,97700,77000,119200
+"1998",79400,88200,81300,131600
+"1999",79300,94500,81700,122900
+"2000",85800,93200,82500,130000
+"2001",85100,124100,83700,142600
+"2002",99000,119700,96700,160000
+"2003",93700,132700,107600,184000
+"2004",111000,150000,104500,189600
+"2005",121600,203800,124100,277300
+"2006",132500,257500,149100,296900
+"2007",126200,255900,172700,323300
+"2008",117900,233800,171900,286800
+"2009",112400,250000,150800,225900
+"2010",112500,182500,134200,206000
+"2011",105400,185200,135900,179200
+"2012",101900,178600,128900,180900
+"2013",117900,181500,131500,222700
+"2014",119200,208300,138100,214500
+"2015",108700,188500,149200,260500
+"2016",115300,182400,154300,253900
+"2017",128700,229700,178500,258900
+"2018",148400,225000,200500,292600
+"2019",160800,236100,201200,335900
+"2020",186500,254600,196000,358100
+"2021",179100,292000,216800,433700
+
+
+
+"Publisher:", "United States Census Bureau"
+"Copyright:", "The data contained in Data Planet(tm): A SAGE Publishing Resource is made available via license agreement with subscribing organizations. Your organization's license may vary from this version."
